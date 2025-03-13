@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dado-app/static/css/main.c9b15f4c.css",
+    "main.js": "/dado-app/static/js/main.86d69b48.js",
+    "static/js/453.fc541b4a.chunk.js": "/dado-app/static/js/453.fc541b4a.chunk.js",
+    "index.html": "/dado-app/index.html",
+    "main.c9b15f4c.css.map": "/dado-app/static/css/main.c9b15f4c.css.map",
+    "main.86d69b48.js.map": "/dado-app/static/js/main.86d69b48.js.map",
+    "453.fc541b4a.chunk.js.map": "/dado-app/static/js/453.fc541b4a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c9b15f4c.css",
+    "static/js/main.86d69b48.js"
+  ]
+}
