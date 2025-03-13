@@ -1,0 +1,9 @@
+.Dado {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+ 
+.Dado svg { 
+      color: #df281b; 
+  }
